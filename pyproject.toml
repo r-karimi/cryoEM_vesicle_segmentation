@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "vesicle-picker"
+name = "cryoEM_vesicle_segmentation"
 version = "0.1.0"
 description = ""
 authors = ["Ryan Karimi <ryan.karimi@mail.utoronto.ca>"]
